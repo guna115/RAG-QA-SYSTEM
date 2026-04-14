@@ -172,6 +172,10 @@ Includes:
 - One tracked metric (latency + similarity score)
 
 ---
+## Architecture Diagram
+
+<img width="8192" height="1207" alt="Architecture Diagram" src="https://github.com/user-attachments/assets/25fdc556-1845-42c1-b722-4d65a27425e7" />
+
 
 ## Evaluation Alignment
 
